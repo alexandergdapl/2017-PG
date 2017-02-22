@@ -1,0 +1,15 @@
+d:\tmp\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+d:\tmp\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+d:\tmp\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+d:\tmp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+d:\tmp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+d:\tmp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\DUPAAPAPAPAPAPAPPAAS\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\DUPAAPAPAPAPAPAPPAAS\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\DUPAAPAPAPAPAPAPPAAS\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+d:\c#\PG\obiektowosc-styczen\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+d:\c#\PG\obiektowosc-styczen\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+d:\c#\PG\obiektowosc-styczen\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+d:\c#\PG\obiektowosc-styczen\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+d:\c#\PG\obiektowosc-styczen\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+d:\c#\PG\obiektowosc-styczen\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

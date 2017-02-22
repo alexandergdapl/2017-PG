@@ -1,0 +1,12 @@
+1. Stwórz klasê osoba. 
+Przy tworzeniu obiektów danej klasy za kazdym razem program powinien pytaæ siê o: 
+wiek, 
+wzrost, 
+imie i nazwisko 
+
+Nastêpnie stwórz listê obiektów klasy osoba,
+do której bêdzie mo¿na dodawaæ kolejne osoby.
+
+A na koñcu stwórz program, który bêdzie sortowa³ dane osoby wed³ug
+wieku, imienia, nazwiska lub wzrostu. 
+TYLKO KLASY I LISTY XD

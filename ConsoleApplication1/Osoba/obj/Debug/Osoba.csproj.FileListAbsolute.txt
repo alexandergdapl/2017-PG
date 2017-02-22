@@ -1,0 +1,6 @@
+D:\c#\PG\obiektowosc-styczen\ConsoleApplication1\Osoba\bin\Debug\Osoba.exe.config
+D:\c#\PG\obiektowosc-styczen\ConsoleApplication1\Osoba\bin\Debug\Osoba.exe
+D:\c#\PG\obiektowosc-styczen\ConsoleApplication1\Osoba\bin\Debug\Osoba.pdb
+D:\c#\PG\obiektowosc-styczen\ConsoleApplication1\Osoba\obj\Debug\Osoba.csprojResolveAssemblyReference.cache
+D:\c#\PG\obiektowosc-styczen\ConsoleApplication1\Osoba\obj\Debug\Osoba.exe
+D:\c#\PG\obiektowosc-styczen\ConsoleApplication1\Osoba\obj\Debug\Osoba.pdb

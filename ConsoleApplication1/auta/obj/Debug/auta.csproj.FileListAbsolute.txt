@@ -1,0 +1,6 @@
+D:\c#\PG\obiektowosc-styczen\ConsoleApplication1\auta\bin\Debug\auta.exe.config
+D:\c#\PG\obiektowosc-styczen\ConsoleApplication1\auta\bin\Debug\auta.exe
+D:\c#\PG\obiektowosc-styczen\ConsoleApplication1\auta\bin\Debug\auta.pdb
+D:\c#\PG\obiektowosc-styczen\ConsoleApplication1\auta\obj\Debug\auta.csprojResolveAssemblyReference.cache
+D:\c#\PG\obiektowosc-styczen\ConsoleApplication1\auta\obj\Debug\auta.exe
+D:\c#\PG\obiektowosc-styczen\ConsoleApplication1\auta\obj\Debug\auta.pdb
