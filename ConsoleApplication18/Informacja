@@ -1,0 +1,6 @@
+Aplikacja "bankowa":
+1. Utworzyć klasę Person i dodać pola/propertis dla osoby: id, name, age, accountNumber
+2. w innej klasie dodać tablicę/listę osbób
+3. Wyświetlić listę
+
+...dodałem sortowanie wg pól
