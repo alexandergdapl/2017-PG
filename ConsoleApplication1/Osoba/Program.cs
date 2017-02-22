@@ -9,6 +9,8 @@ namespace Osoba
     {
         static void Main(string[] args)
         {
+            // list of person + sort
+
             PersonContainer abc = new PersonContainer();
             Console.WriteLine();
 
