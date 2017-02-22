@@ -6,6 +6,8 @@ namespace ConsoleApplication18
     {        
         static void Main(string[] args)
         {
+            //aplikacja bankowa
+
             Service jeden = new Service();
             jeden.GenerateListOfPerson();
             jeden.DrukujListe();

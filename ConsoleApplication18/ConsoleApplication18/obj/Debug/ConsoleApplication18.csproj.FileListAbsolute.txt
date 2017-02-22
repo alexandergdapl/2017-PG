@@ -16,3 +16,6 @@ D:\c#\PG\GIT\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplicat
 d:\c#\PG\GIT\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe
 d:\c#\PG\GIT\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.pdb
 d:\c#\PG\GIT\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.csprojResolveAssemblyReference.cache
+d:\c#\2017-PG\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe.config
+d:\c#\2017-PG\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.exe
+d:\c#\2017-PG\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.pdb
