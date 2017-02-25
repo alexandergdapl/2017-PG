@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using KtoGraWKartyTenMaLebObdarty.Interfaces;
 
 namespace KtoGraWKartyTenMaLebObdarty
 {
-    class Deck
+    class Deck : IDeck
     {
         /*
         CallingCards xyz = new CallingCards();
