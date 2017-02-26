@@ -2,8 +2,10 @@
 {
     class CallingCards
     {
-        string NameOfBigCards;
 
+        /*
+        string NameOfBigCards;
+        
         public void CallingBigCards()
         {
             for (int i = 11; i < 15; i++)
@@ -25,5 +27,8 @@
                 }
             }
         }
+
+    */
+
     }
 }

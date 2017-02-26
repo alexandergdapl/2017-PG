@@ -6,7 +6,6 @@ namespace KtoGraWKartyTenMaLebObdarty
     {
         static void Main(string[] args)
         {
-            
             Deck decks = new Deck();
             decks.CreateDeck();
             decks.ShowDeck();
