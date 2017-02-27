@@ -1,0 +1,23 @@
+Wartoœci:         Kolory:
+2-10 - numery     karo
+11 - walet        kier
+12 - dama         trefl
+13 - król         pik
+14 - as
+
+
+ klasa Deck
+ konstruktor ma tworzyæ 24 karty(ta ma³a œmieszna talia, 
+ o której mówi³em przed chwil¹)
+ 
+wyœwietlanie wszystkich kart w konsoli:
+ 2. Dopisaæ metodê na wyœwietlanie wszystkich kart w konsoli
+ 
+ 
+ metoda na dodanie nowej karty z danych wczytanych z konsoli
+ metoda na usuniêcie karty (opcjonalne)
+ 
+ 
+ 
+ 
+ SI£A

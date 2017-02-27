@@ -1,0 +1,12 @@
+D:\kd\TaliaKart\TaliaKart\bin\Debug\TaliaKart.exe.config
+D:\kd\TaliaKart\TaliaKart\bin\Debug\TaliaKart.exe
+D:\kd\TaliaKart\TaliaKart\bin\Debug\TaliaKart.pdb
+D:\kd\TaliaKart\TaliaKart\obj\Debug\TaliaKart.csprojResolveAssemblyReference.cache
+D:\kd\TaliaKart\TaliaKart\obj\Debug\TaliaKart.exe
+D:\kd\TaliaKart\TaliaKart\obj\Debug\TaliaKart.pdb
+C:\Users\student\Desktop\TaliaKart\TaliaKart\bin\Debug\TaliaKart.exe.config
+C:\Users\student\Desktop\TaliaKart\TaliaKart\obj\Debug\TaliaKart.exe
+C:\Users\student\Desktop\TaliaKart\TaliaKart\obj\Debug\TaliaKart.pdb
+C:\Users\student\Desktop\TaliaKart\TaliaKart\bin\Debug\TaliaKart.exe
+C:\Users\student\Desktop\TaliaKart\TaliaKart\bin\Debug\TaliaKart.pdb
+C:\Users\student\Desktop\TaliaKart\TaliaKart\obj\Debug\TaliaKart.csprojResolveAssemblyReference.cache
