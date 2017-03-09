@@ -1,0 +1,11 @@
+D:\Olek\marzec-szesc\marzec-szesc\bin\Debug\marzec-szesc.exe.config
+D:\Olek\marzec-szesc\marzec-szesc\bin\Debug\marzec-szesc.exe
+D:\Olek\marzec-szesc\marzec-szesc\bin\Debug\marzec-szesc.pdb
+D:\Olek\marzec-szesc\marzec-szesc\obj\Debug\marzec-szesc.exe
+D:\Olek\marzec-szesc\marzec-szesc\obj\Debug\marzec-szesc.pdb
+f:\marzec-szesc\marzec-szesc\bin\Debug\marzec-szesc.exe.config
+f:\marzec-szesc\marzec-szesc\obj\Debug\marzec-szesc.exe
+f:\marzec-szesc\marzec-szesc\obj\Debug\marzec-szesc.pdb
+f:\marzec-szesc\marzec-szesc\bin\Debug\marzec-szesc.exe
+f:\marzec-szesc\marzec-szesc\bin\Debug\marzec-szesc.pdb
+f:\marzec-szesc\marzec-szesc\obj\Debug\marzec-szesc.csprojResolveAssemblyReference.cache
